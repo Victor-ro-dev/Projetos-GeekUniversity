@@ -33,11 +33,3 @@ Este projeto simula um sistema bancário onde o usuário pode criar contas, efet
 - Transferência de valores entre contas.
 - Listagem das contas e seus saldos.
 
-## Instruções de Uso
-
-1. **Compilar os projetos:**
-   Utilize um compilador C, como `gcc`, para compilar os arquivos fonte.
-   ```bash
-   gcc -o jogo jogo.c
-   gcc -o sistema_vendas sistema_vendas.c
-   gcc -o sistema_bancario sistema_bancario.c
